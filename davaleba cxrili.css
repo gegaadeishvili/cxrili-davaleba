@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+table{
+    border: 10px solid red;
+    color:rgba(255, 253, 253, 0.99);
+    text-align: center;
+    width: 400px;
+    height: 300px;
+
+}
+
